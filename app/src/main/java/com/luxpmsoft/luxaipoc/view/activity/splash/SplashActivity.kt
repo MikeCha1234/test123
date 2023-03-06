@@ -18,6 +18,7 @@ import com.luxpmsoft.luxaipoc.view.activity.login.SignInActivity
 import com.luxpmsoft.luxaipoc.view.activity.registration.organization.SelectAccountTypeActivity
 import com.luxpmsoft.luxaipoc.view.activity.welcome.WelcomeActivity
 
+// 2023-03-06
 class SplashActivity : AppCompatActivity() {
 
     companion object{
