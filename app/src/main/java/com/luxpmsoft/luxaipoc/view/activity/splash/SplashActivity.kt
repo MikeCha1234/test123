@@ -20,8 +20,6 @@ import com.luxpmsoft.luxaipoc.view.activity.welcome.WelcomeActivity
 
 class SplashActivity : AppCompatActivity() {
 
-    val TAG = "TAG"
-
     companion object{
         var BACK_BUTTON_CLICKED = "no"
     }
