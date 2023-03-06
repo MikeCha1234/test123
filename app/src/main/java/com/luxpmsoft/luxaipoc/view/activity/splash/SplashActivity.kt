@@ -18,8 +18,9 @@ import com.luxpmsoft.luxaipoc.view.activity.login.SignInActivity
 import com.luxpmsoft.luxaipoc.view.activity.registration.organization.SelectAccountTypeActivity
 import com.luxpmsoft.luxaipoc.view.activity.welcome.WelcomeActivity
 
-// 2023-03-06
 class SplashActivity : AppCompatActivity() {
+
+    val TAG = "TAG"
 
     companion object{
         var BACK_BUTTON_CLICKED = "no"
