@@ -18,7 +18,7 @@ import com.luxpmsoft.luxaipoc.view.activity.login.SignInActivity
 import com.luxpmsoft.luxaipoc.view.activity.registration.organization.SelectAccountTypeActivity
 import com.luxpmsoft.luxaipoc.view.activity.welcome.WelcomeActivity
 
-// branch-4 (last-commit)
+// branch-4[commit5]
 class SplashActivity : AppCompatActivity() {
 
     companion object{
